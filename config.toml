@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://retr0ville.github.io/Rtrvls-Log"
+base_url = "https://retr0ville.github.io/Rtrvls-Log/"
 
 theme = "neovim-theme"
 
